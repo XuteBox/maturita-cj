@@ -1,13 +1,13 @@
-# Obsidian
+# Vanilla Palettes
 
-- Theme: Obsidian
-- Author: Dynalist
+- Theme: Vanilla Palettes
+- Author: <a href="https://github.com/GnRlLeclerc" target="_blank" rel="noopener noreferrer">Thibaut de Saivre</a>
 
 ## Preview
 
-[Open live preview (Quartz)](https://quartz-themes.github.io/obsidian/)
+[Open live preview (Quartz)](https://quartz-themes.github.io/vanilla-palettes.catppuccin-mocha/)
 
-[Open live preview (Publish)](https://publish.saberzero.one/obsidian)
+[Open live preview (Publish)](https://publish.saberzero.one/vanilla-palettes.catppuccin-mocha)
 
 ## Usage (Quartz)
 
@@ -15,7 +15,7 @@
 
 ```yaml
 env:
-  THEME_NAME: obsidian
+  THEME_NAME: vanilla-palettes.catppuccin-mocha
 ```
 
 ```yaml
@@ -28,7 +28,7 @@ env:
 ```bash
 curl -s -S -o action.sh https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh
 
-./action.sh obsidian
+./action.sh vanilla-palettes.catppuccin-mocha
 ```
 
 ### Manual install
