@@ -1,2 +1,7 @@
+---
+title: Maturita z českého jazyka
+draft: false
+tags:
+---
 #  Tyhle stránky slouží k maturitě!
-_dwd_
+Klidně je využívejte k učení!
