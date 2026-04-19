@@ -11,3 +11,4 @@ Francesco Petrarca (*Sonety Lauře*), Dante Alighieri (*Božská komedie*), Giov
 
 [[1. Romeo a Julie]]
 [[2. Hamlet, princ dánský]]
+[[Vývoj dramatu]]

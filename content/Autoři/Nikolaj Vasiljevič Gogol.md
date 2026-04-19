@@ -8,3 +8,4 @@
 - **Další autoři:** Honoré de Balzac (*Otec Goriot*), Stendhal (*Červený a černý*), Fjodor Michajlovič Dostojevskij (*Zločin a trest*), Anton Pavlovič Čechov (*Tři sestry*), Lev Nikolajevič Tolstoj (*Anna Karenina*), Charles Dickens (*Oliver Twist*)
 
 [[4. Revizor]]
+[[Vývoj dramatu]]
