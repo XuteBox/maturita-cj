@@ -11,7 +11,7 @@
 - témata mytologická, vztah k bohům
 - Znaky antického dramatu: 
 	- čerpá z mytologie, hrdinové odvážní a stateční nebo krutí a samolibí  
-	- konflikt se silnějšími končí tragicky, hrdina však mravně vítězí  
+	- hrdina má konflikt se silnějšími -> končí tragicky, avšak mravně vítězí  
 	- forma verše, chór, jednota času, děje a místa, nečlení se na dějství  
 	- spojení mluveného slova, zpěvu a tance
 	- komedie
@@ -67,3 +67,112 @@
 ## České drama
 - **Mastičkář** → nejstarší české drama
 - satirické, parodické
+---
+
+# Renesance
+
+- návrat k antice
+- rozvoj divadla
+- vznik profesionálních divadel
+
+## Lope de Vega
+
+- španělský dramatik
+- porušuje zásadu **tří jednot**
+- spojuje tragické a komické prvky
+- dílo: **Fuente Ovejuna**
+
+---
+
+# Klasicismus
+
+- návrat k pravidlům antiky
+- důraz na **tři jednoty**
+- přísná pravidla
+
+## Moliére
+
+- francouzský dramatik
+- autor **komedií**
+- kritika společnosti
+- díla:
+    - Lakomec
+    - Tartuffe
+    - Zdravý nemocný
+
+---
+
+# Realismus (19. století)
+
+## [[Nikolaj Vasiljevič Gogol]]
+
+- ruský dramatik
+- satira společnosti
+- kritika byrokracie
+- dílo:
+    - **Revizor**
+    - Ženitba
+
+---
+
+# 20. století — moderní drama
+
+## [[Karel Čapek]]
+
+- český dramatik
+- sci-fi a filozofické drama
+- zavedl slovo **robot**
+- díla:
+	- **R.U.R.**
+	- Bílá nemoc
+	- Matka
+	- Ze života hmyzu (s Josefem Čapkem)
+
+---
+
+# Absurdní drama (absolutní drama)
+
+- poválečné období
+- děj často nedává smysl
+- nesmyslné dialogy
+- bez klasické zápletky
+- pocit beznaděje a nesmyslnosti života
+
+## Samuel Beckett
+- dílo:
+    - **Čekání na Godota**
+
+## Eugène Ionesco
+- dílo:
+    - **Plešatá zpěvačka**
+    - Nosorožec
+
+## Český autor
+
+- **Václav Havel**
+- absurdní drama
+- díla:
+    - Audience
+    - Vernisáž
+    - Zahradní slavnost
+
+---
+
+# Česká divadla (Národní obrození)
+
+## Stavovské divadlo
+
+- Praha
+- hrálo se česky i německy
+- významné pro české drama
+## Prozatímní divadlo
+
+- vznik 1862
+- předchůdce Národního divadla
+- hrály se české hry
+## Národní divadlo
+
+- otevřeno 1881
+- znovu otevřeno 1883 (po požáru)
+- symbol českého národa
+- heslo: **Národ sobě**
