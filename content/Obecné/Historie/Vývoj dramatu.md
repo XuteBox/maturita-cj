@@ -74,6 +74,38 @@
 - návrat k antice
 - rozvoj divadla
 - vznik profesionálních divadel
+- porušování zásady tří jednot
+- prolínání tragédie a komedie
+
+## [[William Shakespeare]]
+
+- anglický dramatik
+- nejvýznamnější dramatik renesance
+- psal **tragédie, komedie i historické hry**
+- hluboká psychologie postav
+- monology (slavné vnitřní promluvy postav)
+- nedodržuje zásadu **tří jednot**
+- prolínání tragického a komického
+
+### Tragédie
+
+- **[[1. Romeo a Julie]]**
+- **[[2. Hamlet, princ dánský]]**
+- **[[Othello]]**
+- **Macbeth**
+- Král Lear
+
+### Komedie
+
+- Sen noci svatojánské
+- Zkrocení zlé ženy
+- Veselé paničky windsorské
+
+### Historické hry
+
+- Richard III.
+- Jindřich IV.
+- Jindřich V.
 
 ## Lope de Vega
 
@@ -90,13 +122,13 @@
 - důraz na **tři jednoty**
 - přísná pravidla
 
-## Moliére
+## [[Moliére]]
 
 - francouzský dramatik
 - autor **komedií**
 - kritika společnosti
 - díla:
-    - Lakomec
+    - [[Lakomec]]
     - Tartuffe
     - Zdravý nemocný
 
