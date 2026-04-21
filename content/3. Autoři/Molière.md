@@ -46,4 +46,4 @@ Klasicismus ve Francii zdůrazňuje:
 - Jean de La Fontaine (_Bajky_)
 
 [[3. Lakomec]]
-[[Vývoj dramatu]]
+[[1. Vývoj dramatu]]

@@ -31,4 +31,4 @@ Havel psal v době, kdy byl jako disident sledován a pracoval manuálně. Hra *
 - Bohumil Hrabal
 - Josef Škvorecký
 
-[[Vývoj dramatu]]
+[[1. Vývoj dramatu]]
