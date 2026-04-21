@@ -69,7 +69,7 @@
 - satirické, parodické
 ---
 
-# [[Renesance]]
+# Renesance
 
 - návrat k antice
 - rozvoj divadla
@@ -84,7 +84,7 @@
 
 ---
 
-# [[Klasicismus]]
+# Klasicismus
 
 - návrat k pravidlům antiky
 - důraz na **tři jednoty**
@@ -102,7 +102,7 @@
 
 ---
 
-# [[Realismus]] (19. století)
+# Realismus (19. století)
 
 ## [[Nikolaj Vasiljevič Gogol]]
 
