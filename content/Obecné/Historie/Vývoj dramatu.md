@@ -91,7 +91,7 @@
 
 - **[[1. Romeo a Julie]]**
 - **[[2. Hamlet, princ dánský]]**
-- **[[Othello]]**
+- **Othello**
 - **Macbeth**
 - Král Lear
 
@@ -128,7 +128,7 @@
 - autor **komedií**
 - kritika společnosti
 - díla:
-    - [[Lakomec]]
+    - [[3. Lakomec]]
     - Tartuffe
     - Zdravý nemocný
 
@@ -142,7 +142,7 @@
 - satira společnosti
 - kritika byrokracie
 - dílo:
-    - **Revizor**
+    - **[[4. Revizor]]**
     - Ženitba
 
 ---
@@ -155,8 +155,8 @@
 - sci-fi a filozofické drama
 - zavedl slovo **robot**
 - díla:
-	- **R.U.R.**
-	- Bílá nemoc
+	- **[[14. R.U.R.]]**
+	- [[15. Bílá nemoc]]
 	- Matka
 	- Ze života hmyzu (s Josefem Čapkem)
 
@@ -184,7 +184,7 @@
 - **Václav Havel**
 - absurdní drama
 - díla:
-    - Audience
+    - [[20. Audience]]
     - Vernisáž
     - Zahradní slavnost
 
