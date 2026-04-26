@@ -1,0 +1,1 @@
+tady si vypiš všechny ty básnický věci, ale aji věci jako rozdělení spisovná/nespisovná (knižní slang argot atd) čeština, citová zabarvenost, patří sem aji řečnické otázky, zvolací větiy věty přací atd., 

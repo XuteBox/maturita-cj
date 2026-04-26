@@ -1,3 +1,29 @@
+# Francis Scott Fitzgerald
+## Informace
+- 1896–1940
+- americký spisovatel
+- celým jménem Francis Scott Key Fitzgerald
+- patřil ke generaci amerických autorů po 1. světové válce
+- představitel tzv. ***ztracené generace***
+- ve svých dílech zobrazoval americkou společnost 20. let
+- kritizoval ***americký sen*** a povrchní život bohatých
+- jeho tvorbu ovlivnil bouřlivý život a vztah s manželkou Zeldou
+- díla:
+	- [[13. Velký Gatsby]]
+## Historický kontext
+- [[Meziválečná literatura]]
+- [[1. světová válka]]
+## Autoři z jeho doby
+- [[Ernest Hemingway]] (*Stařec a moře*)
+- [[Erich Maria Remarque]] (*Na západní frontě klid*)
+- [[Antoine de Saint‑Exupéry]] (*Malý princ*)
+## Zajímavosti
+- jeho díla zachycují tzv. „zlatá dvacátá léta“ v USA
+- za života nebyl tak uznávaný jako dnes
+- měl problémy s alkoholem
+- jeho žena Zelda trpěla psychickými problémy
+- *Velký Gatsby* je dnes považován za jedno z nejvýznamnějších děl americké literatury
+---
 # Autor
 
 **Francis Scott Fitzgerald** (1896–1940) byl americký spisovatel a představitel tzv. **ztracené generace**. Narodil se v Saint Paul. Studoval na Princeton University, ale studium nedokončil a narukoval do armády během První světová válka.

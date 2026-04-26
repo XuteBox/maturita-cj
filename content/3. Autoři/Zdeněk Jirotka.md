@@ -1,3 +1,28 @@
+# Zdeněk Jirotka
+## Informace
+- 1911–2003
+- český spisovatel a novinář
+- pracoval jako redaktor a fejetonista
+- psal humoristickou prózu
+- jeho tvorba je založena na jemném a inteligentním humoru
+- využíval ironii a jazykové hříčky
+- zobrazoval běžný život s nadsázkou
+- inspiroval se britským humorem
+- díla:
+	- [[19. Saturnin]]
+## Historický kontext
+- [[Poválečná literatura]]
+## Autoři z jeho doby
+- **P. G. Wodehouse** (*Jeeves a Wooster*) – podobný styl humoru
+- [[Karel Čapek]] (*Povídky z jedné kapsy*) – fejetony a práce s jazykem
+- **Jaroslav Hašek** (*Osudy dobrého vojáka Švejka*) – český humor a satira
+## Zajímavosti
+- *Saturnin* patří mezi nejčtenější české humoristické romány
+- jeho styl je ovlivněn anglickým humorem
+- jeho díla jsou založena na situačním humoru
+- dlouho psal do novin a časopisů
+- jeho humor je nadčasový
+---
 # Autor
 
 **Zdeněk Jirotka** (1911–2003) byl český spisovatel, novinář a autor humoristické literatury. Narodil se v Praha.

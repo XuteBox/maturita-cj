@@ -4,7 +4,13 @@
 - scénické poznámky (popis co mají postavy dělat)
 - dělení: dějství -> naddějství (jednání) -> celky (jednotlivé výstupy) - tohle je horizontální členění
 - vertikální členění jsou nadpisy, scénické poznámky
-
+- drama má 5 částí:
+    - expozice
+    - kolize
+    - krize
+    - peripetie
+    - katastrofa
+---
 # Antika
 - vznik antického dramatu -> při Dionýsiích (oslavy boha Dionýsa) - hrály se tam hry, jen muži
 - hrály se v amfiteátrech
@@ -21,12 +27,6 @@
     - 3 dny tragédie
     - 1 den komedie
 - dramatikové soutěžili mezi sebou
-- drama má 5 částí:
-    - expozice
-    - kolize
-    - krize
-    - peripetie
-    - katastrofa
 ## Nejvýznamnější autoři
 ### Aischylos
 - zakladatel řecké tragédie
@@ -68,17 +68,13 @@
 - **Mastičkář** → nejstarší české drama
 - satirické, parodické
 ---
-
 # Renesance
-
 - návrat k antice
 - rozvoj divadla
 - vznik profesionálních divadel
 - porušování zásady tří jednot
 - prolínání tragédie a komedie
-
 ## [[William Shakespeare]]
-
 - anglický dramatik
 - nejvýznamnější dramatik renesance
 - psal **tragédie, komedie i historické hry**
@@ -86,44 +82,31 @@
 - monology (slavné vnitřní promluvy postav)
 - nedodržuje zásadu **tří jednot**
 - prolínání tragického a komického
-
 ### Tragédie
-
 - **[[1. Romeo a Julie]]**
 - **[[2. Hamlet, princ dánský]]**
 - **Othello**
 - **Macbeth**
 - Král Lear
-
 ### Komedie
-
 - Sen noci svatojánské
 - Zkrocení zlé ženy
 - Veselé paničky windsorské
-
 ### Historické hry
-
 - Richard III.
 - Jindřich IV.
 - Jindřich V.
-
 ## Lope de Vega
-
 - španělský dramatik
-- porušuje zásadu **tří jednot**
+- porušuje **zásadu tří jednot**
 - spojuje tragické a komické prvky
-- dílo: **Fuente Ovejuna**
-
+- dílo: *Ovčí pramen*
 ---
-
 # Klasicismus
-
 - návrat k pravidlům antiky
 - důraz na **tři jednoty**
 - přísná pravidla
-
 ## [[Moliére]]
-
 - francouzský dramatik
 - autor **komedií**
 - kritika společnosti
@@ -131,22 +114,16 @@
     - [[3. Lakomec]]
     - Tartuffe
     - Zdravý nemocný
-
 ---
-
 # Realismus (19. století)
-
 ## [[Nikolaj Vasiljevič Gogol]]
-
 - ruský dramatik
 - satira společnosti
 - kritika byrokracie
 - dílo:
     - **[[4. Revizor]]**
     - Ženitba
-
 ---
-
 # 20. století — moderní drama
 
 ## [[Karel Čapek]]
@@ -171,39 +148,25 @@
 - pocit beznaděje a nesmyslnosti života
 
 ## Samuel Beckett
-- dílo:
-    - **Čekání na Godota**
-
+- *Čekání na Godota*
 ## Eugène Ionesco
-- dílo:
-    - **Plešatá zpěvačka**
-    - Nosorožec
-
-## Český autor
-
-- **Václav Havel**
-- absurdní drama
-- díla:
-    - [[20. Audience]]
-    - Vernisáž
-    - Zahradní slavnost
-
+- *Plešatá zpěvačka*
+- Nosorožec
+## **[[Václav Havel]]**
+- [[20. Audience]]
+- Vernisáž
+- Zahradní slavnost
 ---
-
 # Česká divadla (Národní obrození)
-
 ## Stavovské divadlo
-
 - Praha
 - hrálo se česky i německy
 - významné pro české drama
 ## Prozatímní divadlo
-
 - vznik 1862
 - předchůdce Národního divadla
 - hrály se české hry
 ## Národní divadlo
-
 - otevřeno 1881
 - znovu otevřeno 1883 (po požáru)
 - symbol českého národa

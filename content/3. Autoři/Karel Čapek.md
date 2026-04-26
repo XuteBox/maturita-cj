@@ -1,3 +1,29 @@
+# Karel Čapek
+## Informace
+- 1890–1938
+- český spisovatel, novinář a dramatik
+- pracoval jako redaktor (Lidové noviny)
+- psal prózu, drama i fejetony
+- zabýval se otázkami techniky, pokroku a lidskosti
+- varoval před zneužitím vědy a moci
+- jeho tvorba je humanistická a demokratická
+- spolupracoval se svým bratrem **Josef Čapek**
+- zavedl slovo ***robot*** (ve hře *R.U.R.*)
+- díla:
+	- [[14. R.U.R.]]
+## Historický kontext
+- [[Meziválečná literatura]]
+## Autoři z jeho doby
+- [[Jaroslav Havlíček]] (*Petrolejové lampy*) – zobrazení společnosti a člověka
+- [[Franz Kafka]] (*Proměna*) – podobnost v tématech odcizení a tlaku společnosti
+- **Karel Poláček** (*Bylo nás pět*) – česká próza meziválečného období
+## Zajímavosti
+- byl jedním z nejvýznamnějších českých spisovatelů 20. století
+- jeho díla jsou často nadčasová a aktuální
+- odmítal fašismus a nacismus
+- nebyl oceněn Nobelovou cenou, i když byl navrhován
+- jeho bratr **Josef Čapek** zahynul v koncentračním táboře
+---
 ## Autor
 
 Český prozaik, dramatik a novinář. Také básník, překladatel, kritik a filozof. Významná osobnost české literatury přelomu 19. a 20. století. Karel Čapek se narodil 9.1.1890 v Malých Svatoňovicích u Náchoda. Byl ze tří dětí, jeho bratr Josef Čapek byl známým malířem a spisovatelem. V literatuře se prosadil stejně úspěšně jako jeho bratr, ačkoliv Karel Čapek byl literárně mnohem produktivnější. Oba bratři spolupracovali na hře „Ze života hmyzu“ a pohádkové knížce „Devatero pohádek“ a několika dalších knihách. Od roku 1917 byl Karel Čapek redaktorem v Národních listech a od roku 1921 redaktorem Lidových novin. Od roku 1925 byl předsedou Penklubu (československé části mezinárodní spisovatelské organizace Penklub).
@@ -17,4 +43,4 @@ Václav Řezáč (Poplach v kovářské uličce), Vladislav Vančura, Ivan Olbra
 
 [[14. R.U.R.]]
 [[15. Bílá nemoc]]
-[[1. Vývoj dramatu]]
+[[Vývoj dramatu]]

@@ -1,3 +1,30 @@
+# Erich Maria Remarque
+## Informace
+- 1898–1970
+- německý spisovatel
+- vlastním jménem Erich Paul Remark
+- byl učitel, novinář a redaktor
+- účastnil se 1. světové války (silně ho ovlivnila)
+- po nástupu nacismu emigroval z Německa
+- jeho knihy byly nacisty zakázány a páleny
+- psal protiválečnou prózu
+- zaměřoval se na psychiku vojáků a dopady války na člověka
+- díla:
+	- [[7. Na západní frontě klid]]
+## Historický kontext
+- [[Meziválečná literatura]]
+- [[1. světová válka]]
+## Autoři z jeho doby
+- [[Ernest Hemingway]] (*Stařec a moře*)
+- [[Antoine de Saint‑Exupéry]] (*Malý princ*)
+- [[Francis Scott Fitzgerald]] (*Velký Gatsby*)
+## Zajímavosti
+- jeho nejslavnější dílo *Na západní frontě klid* bylo inspirováno vlastní zkušeností z války
+- kniha byla nacisty označena za „protivlasteneckou“
+- přišel o německé občanství
+- jeho sestra byla popravena nacisty
+- jeho díla často zobrazují „ztracenou generaci“
+---
 # Autor
 
 **Erich Maria Remarque** (1898–1970) byl německý spisovatel a představitel **ztracené generace**. Narodil se v Osnabrück.

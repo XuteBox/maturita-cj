@@ -1,3 +1,30 @@
+# Václav Havel
+## Informace
+- 1936–2011
+- český dramatik, esejista a politik
+- pracoval jako divadelní autor (Divadlo Na zábradlí)
+- představitel absurdního dramatu
+- jeho tvorba kritizuje totalitní režim a byrokracii
+- zabýval se otázkami pravdy, moci a odpovědnosti
+- byl disidentem a odpůrcem komunismu
+- spoluzakladatel ***Charty 77***
+- po roce 1989 prezident Československa a později České republiky
+- díla:
+	- [[20. Audience]]
+## Historický kontext
+- [[Poválečná literatura]]
+- [[Komunistický režim v Československu]]
+## Autoři z jeho doby
+- [[George Orwell]] (*Farma zvířat*) – kritika totality a moci
+- [[Franz Kafka]] (*Proměna*) – podobnost v absurditě a postavení jedince
+- **Samuel Beckett** (*Čekání na Godota*) – absurdní drama
+## Zajímavosti
+- jeho hry byly za komunismu zakázány
+- byl několikrát vězněn
+- významná osobnost sametové revoluce
+- jeho tvorba je založena na absurditě a ironii
+- patří mezi nejvýznamnější české osobnosti 20. století
+---
 # Autor
 
 **Václav Havel** (1936–2011) byl český dramatik, esejista, disident a později první prezident České republiky. Narodil se v Praha v rodině podnikatelů.
@@ -31,4 +58,4 @@ Havel psal v době, kdy byl jako disident sledován a pracoval manuálně. Hra *
 - Bohumil Hrabal
 - Josef Škvorecký
 
-[[1. Vývoj dramatu]]
+[[Vývoj dramatu]]

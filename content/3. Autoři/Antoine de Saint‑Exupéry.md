@@ -1,11 +1,33 @@
-# Autor
+# Antoine de Saint-Exupéry
+## Informace
+- 1900–1944
+- francouzský spisovatel, letec a novinář
+- narodil se ve Francii (Lyon)
+- pracoval jako pilot (letecká pošta, armáda)
+- jeho tvorbu ovlivnily zážitky z létání
+- během 2. světové války působil jako vojenský pilot
+- zahynul při průzkumném letu (letadlo se zřítilo, dlouho byl nezvěstný)
+- psal prózu s filozofickými prvky
+- často spojoval dobrodružství s úvahami o životě
+- díla:
+	- [[8. Malý princ]]
+## Historický kontext
+- [[Meziválečná literatura]]
+- [[2. světová válka]]
+## Autoři z jeho doby
+- [[Erich Maria Remarque]] (*Na západní frontě klid*)
+- [[Ernest Hemingway]] (*Stařec a moře*)
+- [[Romain Rolland]] (*Petr a Lucie*)
+- [[Francis Scott Fitzgerald]] (*Velký Gatsby*)
+## Zajímavosti
+- byl průkopníkem dálkového letectví
+- jeho zkušenosti pilota se promítají do jeho děl
+- *Malý princ* je jednou z nejpřekládanějších knih na světě
+- jeho smrt byla dlouho záhadou (vrak letadla byl nalezen až po letech)
+- v jeho dílech se často objevují témata přátelství, odpovědnosti a smyslu života
 
-**Antoine de Saint‑Exupéry** (1900–1944) byl francouzský spisovatel, pilot a humanista. Narodil se v Lyon v aristokratické rodině.
 
-Pracoval jako poštovní pilot a později jako vojenský letec. Jeho zkušenosti s létáním výrazně ovlivnily jeho tvorbu. Během Druhá světová válka působil jako průzkumný pilot. Roku 1944 zmizel během letu nad Středozemním mořem a jeho osud zůstává dodnes nejasný.
-
-Jeho nejznámějším dílem je **Malý princ**, který vyšel roku **1943** a stal se jednou z nejpřekládanějších knih na světě.
-
+OLD
 ## Tvorba
 
 - humanismus
@@ -34,8 +56,3 @@ Jeho nejznámějším dílem je **Malý princ**, který vyšel roku **1943** a s
 - hluboké myšlenky
 - symbolika
 
-# Další autoři
-
-- [[Ernest Hemingway]] (_Stařec a moře_)
-- [[Erich Maria Remarque]] (_Na západní frontě klid_)
-- [[Francis Scott Fitzgerald]] (_Velký Gatsby_)

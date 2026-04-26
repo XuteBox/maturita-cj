@@ -1,3 +1,30 @@
+# Molière
+## Informace
+- 1622–1673
+- francouzský dramatik a herec
+- vlastním jménem Jean-Baptiste Poquelin
+- působil jako divadelník a vedl vlastní hereckou společnost
+- významný představitel ***klasicismu***
+- psal komedie
+- zesměšňoval lidské chyby a neřesti (lakota, pokrytectví)
+- jeho díla mají výchovný a kritický charakter
+- dodržoval ***zásadu tří jednot*** (čas, místo, děj)
+- díla:
+	- [[3. Lakomec]]
+## Historický kontext
+- [[Klasicismus]]
+- [[Vývoj dramatu]]
+## Autoři z jeho doby
+- **Pierre Corneille** (*Cid*) – klasicistní drama
+- **Jean Racine** (*Faidra*) – klasicistní tragédie
+- [[William Shakespeare]] (*Hamlet*) – odlišný přístup k dramatu (nedodržuje zásadu tří jednot)
+## Zajímavosti
+- jeho hry byly oblíbené na královském dvoře
+- podporoval ho král Ludvík XIV.
+- zemřel krátce po představení jedné ze svých her
+- jeho komedie se hrají dodnes
+- kritizoval společenské nedostatky své doby
+---
 # Autor
 
 **Molière** (1622–1673), vlastním jménem **Jean-Baptiste Poquelin**, byl významný francouzský dramatik, herec a divadelní ředitel. Narodil se v Paříž v rodině královského čalouníka. Studoval práva, ale místo právnické kariéry se rozhodl pro divadlo.
@@ -46,4 +73,4 @@ Klasicismus ve Francii zdůrazňuje:
 - Jean de La Fontaine (_Bajky_)
 
 [[3. Lakomec]]
-[[1. Vývoj dramatu]]
+[[Vývoj dramatu]]

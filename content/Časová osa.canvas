@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"d510c3e366561fa5","type":"file","file":"1. Obecné/Historie/Vývoj dramatu.md","x":-800,"y":-1813,"width":400,"height":400},
+		{"id":"716f192d6293d1e3","x":-800,"y":-1314,"width":400,"height":400,"type":"file","file":"1. Obecné/Historie/Antika.md"},
+		{"id":"04dbf3dbad30eff7","type":"file","file":"1. Obecné/Historie/Klasicismus.md","x":515,"y":-1314,"width":400,"height":400},
+		{"id":"02ca3b4eaa4ec31f","x":-360,"y":-1314,"width":400,"height":400,"type":"file","file":"1. Obecné/Historie/Středověk.md"},
+		{"id":"3975234ab0193a72","type":"file","file":"1. Obecné/Historie/Renesance a humanismus.md","x":80,"y":-1314,"width":400,"height":400},
+		{"id":"c979942c3e482ce8","type":"file","file":"1. Obecné/Historie/Osvícenství.md","x":960,"y":-1314,"width":400,"height":400},
+		{"id":"0f0f323f89b67bba","type":"file","file":"1. Obecné/Historie/Národní obrození.md","x":1405,"y":-1314,"width":400,"height":400},
+		{"id":"210a3ccc5d473b02","type":"file","file":"1. Obecné/Historie/Realismus.md","x":1850,"y":-1314,"width":400,"height":400},
+		{"id":"4f61bc7c6f922b9c","type":"file","file":"1. Obecné/Historie/Moderní směry přelomu 19. a 20. století.md","x":1850,"y":-832,"width":400,"height":400},
+		{"id":"d22e36ae79b8cbd1","type":"file","file":"1. Obecné/Historie/1. světová válka.md","x":1405,"y":-832,"width":400,"height":400},
+		{"id":"6b8c711b626aba68","type":"file","file":"1. Obecné/Historie/Meziválečná literatura.md","x":960,"y":-832,"width":400,"height":400},
+		{"id":"00426690efb6aaff","type":"file","file":"1. Obecné/Historie/2. světová válka.md","x":515,"y":-832,"width":400,"height":400},
+		{"id":"226c1cc6f7d64329","type":"file","file":"1. Obecné/Historie/Poválečná literatura.md","x":-360,"y":-832,"width":400,"height":400},
+		{"id":"9f258491e57a4853","type":"file","file":"1. Obecné/Historie/Komunistický režim v Československu.md","x":-360,"y":-360,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"ce99af2a701757be","fromNode":"716f192d6293d1e3","fromSide":"right","toNode":"02ca3b4eaa4ec31f","toSide":"left"},
+		{"id":"c08a048301aefc6a","fromNode":"02ca3b4eaa4ec31f","fromSide":"right","toNode":"3975234ab0193a72","toSide":"left"},
+		{"id":"3b323c37842e11c6","fromNode":"3975234ab0193a72","fromSide":"right","toNode":"04dbf3dbad30eff7","toSide":"left"},
+		{"id":"dac34e4466ff9e6d","fromNode":"04dbf3dbad30eff7","fromSide":"right","toNode":"c979942c3e482ce8","toSide":"left"},
+		{"id":"f292465463757e59","fromNode":"c979942c3e482ce8","fromSide":"right","toNode":"0f0f323f89b67bba","toSide":"left"},
+		{"id":"543ae949be1c86a3","fromNode":"0f0f323f89b67bba","fromSide":"right","toNode":"210a3ccc5d473b02","toSide":"left"},
+		{"id":"57135b969ce208c0","fromNode":"210a3ccc5d473b02","fromSide":"right","toNode":"4f61bc7c6f922b9c","toSide":"right"},
+		{"id":"bb37296357b4813a","fromNode":"4f61bc7c6f922b9c","fromSide":"left","toNode":"d22e36ae79b8cbd1","toSide":"right"},
+		{"id":"a3a704a7321dc8e4","fromNode":"d22e36ae79b8cbd1","fromSide":"left","toNode":"6b8c711b626aba68","toSide":"right"},
+		{"id":"832e59d01dacad6e","fromNode":"6b8c711b626aba68","fromSide":"left","toNode":"00426690efb6aaff","toSide":"right"},
+		{"id":"9f46e2a162f2350b","fromNode":"00426690efb6aaff","fromSide":"left","toNode":"226c1cc6f7d64329","toSide":"right"},
+		{"id":"fea7797ebac5ee51","fromNode":"00426690efb6aaff","fromSide":"left","toNode":"9f258491e57a4853","toSide":"right"}
+	]
+}

@@ -1,3 +1,30 @@
+# Karel Havlíček Borovský
+## Informace
+- 1821–1856
+- český spisovatel, novinář a politik
+- vlastním jménem Karel Havlíček
+- významný představitel českého národního obrození
+- pracoval jako novinář a redaktor
+- zakladatel moderní české žurnalistiky
+- kritizoval rakouskou monarchii a absolutismus
+- psal satirická díla a epigramy
+- byl pronásledován režimem a deportován do ***Brixenu***
+- díla:
+	- [[6. Král Lávra]]
+## Historický kontext
+- [[Národní obrození]]
+## Autoři z jeho doby
+- [[Karel Jaromír Erben]] (*Kytice*) – národní obrození
+- **Božena Němcová** (*Babička*) – národní obrození
+- **Josef Kajetán Tyl** (*Strakonický dudák*) – národní obrození
+- **Karel Hynek Mácha** (*Máj*)
+## Zajímavosti
+- jeho noviny byly zakazovány
+- byl jedním z prvních českých politických novinářů
+- jeho díla kritizují moc a hloupost vládnoucích
+- jeho pobyt v Brixenu ovlivnil jeho tvorbu
+- psal krátké satirické básně (epigramy)
+---
 # Autor
 **Karel Havlíček Borovský** (1821–1856) byl český novinář, satirik, básník a politik. Narodil se v Německý Brod (dnes Havlíčkův Brod).
 
