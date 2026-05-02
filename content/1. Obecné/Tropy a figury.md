@@ -1,0 +1,33 @@
+# Tropy
+- **metafora** (přenesení významu na základě podobnosti) – „moře hvězd“, „čas běží“
+- **metonymie** (pojmenování na základě věcné souvislosti) – „četl jsem Kafku“, „pít skleničku“
+- **synekdocha** (část místo celku nebo naopak) – „ani noha tam nevkročila“, „má čtyři kola“ (auto)
+- **personifikace** (oživení neživé věci) – „vítr zpívá“, „slunce se usmívá“
+- **epiteton** (básnický přívlastek) – „zlaté slunce“, „temný les“
+- **přirovnání** (srovnání pomocí „jako“) – „rychlý jako vítr“, „bílý jako sníh“
+- **oxymóron** (spojení protikladných slov) – „živá mrtvola“, „hořká sladkost“
+- **hyperbola** (zveličení) – „čekám věčnost“, „umírám smíchy“
+- **litotes** (zeslabení pomocí záporu) – „není to špatné“, „nebyl nejchytřejší“
+- **ironie** (význam opačný než doslovný) – „to se ti povedlo“ (když se něco nepovede), „skvělá práce“ (při chybě)
+- **sarkasmus**
+- **eufemismus** (zmírnění nepříjemného výrazu) – „odešel“ (zemřel), „není nejchytřejší“
+- **dysfemismus** (zhrubění/nepříjemné pojmenování) – „chcípnul“ (zemřel), „žrát“ (jíst)
+- **symbol** (konkrétní věc zastupuje abstraktní význam) – „kříž“ (utrpení), „holubice“ (mír)
+- **allegorie** (rozvinutý symbol s jasným významem) – bajka (_zvířata = lidé_), „smrt jako kostlivec s kosou“
+# Figury
+- **anafora** (opakování na začátku veršů/vět) – „Nechci… Nechci…“, „Byl tam… Byl tam…“
+- **epifora** (opakování na konci veršů/vět) – „…v noci, …v noci“, „…pro tebe, …pro tebe“
+- **epanastrofa** (opakování slova na konci a začátku vět) – „boj za mír, mír pro lidi“
+- **epizeuxis** (bezprostřední opakování slova) – „běž, běž!“, „ano, ano“
+- **gradace** (stupňování) – „šeptal, mluvil, křičel“, „malý, větší, největší“
+- **antiteze** (protiklad) – „bohatý a chudý“, „život a smrt“
+- **paralelismus** (stejná větná stavba) – „on přišel, ona odešla“, „já myslím, ty víš“
+- **chiasmus** (křížové uspořádání slov) – „krásná je noc, noc je krásná“, „má rád ji, ji má rád“
+- **elipsa** (vynechání části věty) – „Já nic.“, „On tam.“
+- **asyndeton** (výčet bez spojek) – „přišel, viděl, zvítězil“, „máma, táta, děti“
+- **polysyndeton** (nadbytek spojek) – „a přišel a viděl a zvítězil“, „a máma a táta a děti“
+- **apostrofa** (oslovení nepřítomné osoby/věci) – „Ó lásko!“, „Ó smrti!“
+- **řečnická otázka** (otázka bez očekávané odpovědi) – „Kdo by to nechtěl?“, „Copak to jde?“
+- **inverze** (obrácený slovosled) – „krásná je noc“, „velký dům měl“
+- **onomatopoie** (zvukomalba) – „bum“, „tik tak“
+- **aliterace** (opakování stejných hlásek na začátku slov) – „tichý tok teče“, „plyne potok podél polí“

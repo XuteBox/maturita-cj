@@ -1,0 +1,12 @@
+- věci z toho papíru
+![[charakteristika.jpg|671]]
+- [[Charakteristika jazykových prostředků]]
+- [[Analýza textu]]
+- [[Tropy a figury]]
+- vlastní jména
+- termíny
+- zvolací věty
+- přací věty
+- zkratky
+- číslovky
+- 
