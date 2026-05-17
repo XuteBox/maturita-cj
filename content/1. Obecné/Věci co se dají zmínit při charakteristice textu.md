@@ -9,4 +9,3 @@
 - přací věty
 - zkratky
 - číslovky
-- 

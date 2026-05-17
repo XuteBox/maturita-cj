@@ -19,6 +19,7 @@
 - [[Erich Maria Remarque]] (*Na západní frontě klid*)
 - [[Francis Scott Fitzgerald]] (*Velký Gatsby*)
 - [[Antoine de Saint‑Exupéry]] (*Malý princ*)
+- Steinback
 ## Zajímavosti
 - získal Nobelovu cenu za literaturu
 - byl vášnivý lovec a rybář (promítá se do jeho děl)

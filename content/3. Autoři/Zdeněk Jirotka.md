@@ -8,8 +8,12 @@
 - využíval ironii a jazykové hříčky
 - zobrazoval běžný život s nadsázkou
 - inspiroval se britským humorem
+- psal časopis Dikobraz, Lidové noviny a působil v ČSL Rozhlas
+- 
 - díla:
 	- [[19. Saturnin]]
+	- Muž se psem
+	- Profesor biologie na žebříku
 ## Historický kontext
 - [[Poválečná literatura]]
 ## Autoři z jeho doby
@@ -25,7 +29,7 @@
 ---
 # Autor
 
-**Zdeněk Jirotka** (1911–2003) byl český spisovatel, novinář a autor humoristické literatury. Narodil se v Praha.
+**Zdeněk Jirotka** (1911–2003) byl český spisovatel, novinář a autor humoristické literatury. Narodil se v Praze.
 
 Studoval vojenskou akademii a pracoval jako novinář. Proslavil se především humoristickým románem **Saturnin**, který vyšel roku **1942** a stal se jedním z nejoblíbenějších českých humoristických děl.
 

@@ -9,6 +9,7 @@
 ## Charakteristika
 Klasicismus vychází z ideálů antiky a klade důraz na řád, harmonii a rozum. Literatura má být vyvážená, přehledná a podřízená pevným pravidlům. Autoři věří, že umění má vychovávat a ukazovat správné morální hodnoty. Důležitá je střídmost, logika a jasná struktura. Postavy často představují určité typy lidských vlastností (např. lakomec, pokrytec). Velký důraz je kladen na formu a dodržování pravidel.
 ## Znaky v literatuře
+- dělí se na vyšší (vznešené náměty, ódy, epos, tragédie) a nižší žánry (hovorová mluva, městské prostředí, bajky, komedie)
 - důraz na rozum a pravidla
 - inspirace antikou
 - výchovná funkce literatury

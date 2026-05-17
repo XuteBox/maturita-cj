@@ -1,6 +1,7 @@
 # Komunistický režim v Československu
 ## Časové zařazení
 - 1948–1989
+- více v [[Česká literatura 20.-21. století]]
 ## Historický kontext
 - převzetí moci komunisty v roce 1948 (únorový převrat)
 - začlenění do sovětského bloku

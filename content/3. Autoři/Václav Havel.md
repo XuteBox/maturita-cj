@@ -2,15 +2,21 @@
 ## Informace
 - 1936–2011
 - český dramatik, esejista a politik
-- pracoval jako divadelní autor (Divadlo Na zábradlí)
-- představitel absurdního dramatu
+- pracoval jako kulisák (Divadlo Na zábradlí a divadlo ABC)
+- vypracoval se na dramaturga a režiséra
+- po roce 68 zákaz -> dělník v pivovaru
+- představitel absurdního dramatu (50. léta Francie, Iunesco)
+- absurdita u něj - neschopnost komunikace, odcizení, bezdějovost, banalita, motiv opakujících se dějů, žádná charakteristika postav, bez rozuzlení
 - jeho tvorba kritizuje totalitní režim a byrokracii
 - zabýval se otázkami pravdy, moci a odpovědnosti
 - byl disidentem a odpůrcem komunismu
 - spoluzakladatel ***Charty 77***
 - po roce 1989 prezident Československa a později České republiky
+- kvůli svému původu nemohl studovat, na přímluvu Wericha si ale dodělal maturitu
 - díla:
 	- [[20. Audience]]
+	- Vernisáž
+	- Dopisy Olze - jediné prozaické dílo
 ## Historický kontext
 - [[Poválečná literatura]]
 - [[Komunistický režim v Československu]]

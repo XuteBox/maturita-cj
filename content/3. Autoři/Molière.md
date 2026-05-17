@@ -4,24 +4,26 @@
 - francouzský dramatik a herec
 - vlastním jménem Jean-Baptiste Poquelin
 - působil jako divadelník a vedl vlastní hereckou společnost
+- nejdřív byl v kočovném divadle, pak v královském
 - významný představitel ***klasicismu***
 - psal komedie
 - zesměšňoval lidské chyby a neřesti (lakota, pokrytectví)
 - jeho díla mají výchovný a kritický charakter
-- dodržoval ***zásadu tří jednot*** (čas, místo, děj)
+- kritika společnosti, negativní vlastnosti
+- nedodržoval ***zásadu tří jednot*** (čas, místo, děj)
 - díla:
 	- [[3. Lakomec]]
 ## Historický kontext
 - [[Klasicismus]]
 - [[Vývoj dramatu]]
 ## Autoři z jeho doby
+- **Jean de La Fontaine** (_Bajky_)
 - **Pierre Corneille** (*Cid*) – klasicistní drama
 - **Jean Racine** (*Faidra*) – klasicistní tragédie
-- [[William Shakespeare]] (*Hamlet*) – odlišný přístup k dramatu (nedodržuje zásadu tří jednot)
 ## Zajímavosti
 - jeho hry byly oblíbené na královském dvoře
 - podporoval ho král Ludvík XIV.
-- zemřel krátce po představení jedné ze svých her
+- hrál ve svých hrách a zemřel během toho
 - jeho komedie se hrají dodnes
 - kritizoval společenské nedostatky své doby
 ---
@@ -70,7 +72,3 @@ Klasicismus ve Francii zdůrazňuje:
 
 - Jean Racine (_Faidra_)
 - Pierre Corneille (_Cid_)
-- Jean de La Fontaine (_Bajky_)
-
-[[3. Lakomec]]
-[[Vývoj dramatu]]

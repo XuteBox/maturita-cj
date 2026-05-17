@@ -9,6 +9,7 @@
 - jeho knihy byly nacisty zakázány a páleny
 - psal protiválečnou prózu
 - zaměřoval se na psychiku vojáků a dopady války na člověka
+- realistický proud
 - díla:
 	- [[7. Na západní frontě klid]]
 ## Historický kontext
@@ -18,6 +19,8 @@
 - [[Ernest Hemingway]] (*Stařec a moře*)
 - [[Antoine de Saint‑Exupéry]] (*Malý princ*)
 - [[Francis Scott Fitzgerald]] (*Velký Gatsby*)
+- Bratři Mannovi - Thomas a Heinrich 
+- [[Franz Kafka]] - německy psaná pražská židovská lit.
 ## Zajímavosti
 - jeho nejslavnější dílo *Na západní frontě klid* bylo inspirováno vlastní zkušeností z války
 - kniha byla nacisty označena za „protivlasteneckou“

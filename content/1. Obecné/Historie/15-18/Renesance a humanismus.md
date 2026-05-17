@@ -4,7 +4,7 @@
 ## Historický kontext
 - rozvoj měst a obchodu
 - zámořské objevy (Kolumbus, Vasco da Gama)
-- vynález knihtisku (Gutenberg)
+- vynález ***knihtisku*** (Gutenberg)
 - oslabení vlivu církve
 - návrat k antické kultuře
 ## Charakteristika
@@ -30,9 +30,3 @@ Renesance znamená „znovuzrození“ antiky. Lidé se začínají odklánět o
 - literatura se zpřístupňuje širším vrstvám díky knihtisku
 - rozvíjí se divadlo (např. v Anglii)
 - období přineslo velký rozvoj umění a vědy
----
-# Renesance
-## Charakteristika
-- 14.-16. stol.
-Období **renesance** (14.–16. století) – návrat k antice, důraz na lidský rozum a individualitu. Vrcholné období alžbětinského dramatu v Anglii.
-**Renesance a humanismus** (14.–16. století) – návrat k antice, důraz na člověka a jeho individualitu, rozvoj věd a umění. Shakespeare píše ve vrcholném období anglické renesance (alžbětinské divadlo).

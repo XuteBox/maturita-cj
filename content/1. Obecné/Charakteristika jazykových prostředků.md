@@ -22,3 +22,6 @@
 # Členění textu
 - horizontální (členění do odstavců, nadpis, kapitoly)
 - vertikální (obrázky, uvozovky, pomlčky, kurzíva, tučnost, velikost, grafy, grafické prvky)
+
+
+**poetismy** (básnická slova, knižní výrazy) – „luna“ (měsíc), „skrání“ (tvář), „jitro“ (ráno)

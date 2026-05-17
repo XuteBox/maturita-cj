@@ -1,9 +1,9 @@
 # Karel Čapek
 ## Informace
 - 1890–1938
-- český spisovatel, novinář a dramatik
+- český překladatel, spisovatel, novinář a dramatik
 - pracoval jako redaktor (Lidové noviny)
-- psal prózu, drama i fejetony
+- psal prózu (romány a povídky), drama i fejetony, pohádky pro děti
 - zabýval se otázkami techniky, pokroku a lidskosti
 - varoval před zneužitím vědy a moci
 - jeho tvorba je humanistická a demokratická
@@ -11,8 +11,16 @@
 - zavedl slovo ***robot*** (ve hře *R.U.R.*)
 - díla:
 	- [[14. R.U.R.]]
+	- [[15. Bílá nemoc]]
+- 5 období psaní:
+	- tvorba s bratrem Josefem - *Povídání o pejskovi a kočičce*
+	- povídky - *Povídky z jedné kapsy*, *Povídky z druhé kapsy*
+	- utopická dramata - *R.U.R.*, *Věc Makropulos*, *Ze života hmyzu*
+	- filozofické romány - *Krakatit*, *Hordubal*, *Povětroň*
+	- protiválečná dramata - *Bílá nemoc*, *Matka*
 ## Historický kontext
 - [[Meziválečná literatura]]
+- [[Vývoj dramatu]]
 ## Autoři z jeho doby
 - [[Jaroslav Havlíček]] (*Petrolejové lampy*) – zobrazení společnosti a člověka
 - [[Franz Kafka]] (*Proměna*) – podobnost v tématech odcizení a tlaku společnosti

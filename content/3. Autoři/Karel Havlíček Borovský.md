@@ -12,12 +12,14 @@
 - díla:
 	- [[6. Král Lávra]]
 ## Historický kontext
+- počátky [[Realismus]]
 - [[Národní obrození]]
 ## Autoři z jeho doby
 - [[Karel Jaromír Erben]] (*Kytice*) – národní obrození
-- **Božena Němcová** (*Babička*) – národní obrození
-- **Josef Kajetán Tyl** (*Strakonický dudák*) – národní obrození
-- **Karel Hynek Mácha** (*Máj*)
+- **Božena Němcová** (*Babička*) – národní obrození, patří trochu i do romantismu
+- **Josef Kajetán Tyl** (*Fidlovačka*) – národní obrození, miláček národa
+- **Preissová**
+- **Mrštíková**
 ## Zajímavosti
 - jeho noviny byly zakazovány
 - byl jedním z prvních českých politických novinářů

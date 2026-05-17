@@ -12,6 +12,7 @@
 	- [[4. Revizor]]
 ## Historický kontext
 - [[Realismus]]
+- [[Vývoj dramatu]]
 ## Autoři z jeho doby
 - **Honoré de Balzac** (*Otec Goriot*) – realismus
 - **Charles Dickens** (*Oliver Twist*) – realismus a kritika společnosti
@@ -33,4 +34,3 @@
 - **Další autoři:** Honoré de Balzac (*Otec Goriot*), Stendhal (*Červený a černý*), Fjodor Michajlovič Dostojevskij (*Zločin a trest*), Anton Pavlovič Čechov (*Tři sestry*), Lev Nikolajevič Tolstoj (*Anna Karenina*), Charles Dickens (*Oliver Twist*)
 
 [[4. Revizor]]
-[[Vývoj dramatu]]

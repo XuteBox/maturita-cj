@@ -9,12 +9,23 @@
 - napětí vedoucí k 2. světové válce
 ## Charakteristika
 Meziválečná literatura je silně ovlivněna zkušeností z 1. světové války, která zničila víru lidí v pokrok a smysl života. Objevuje se pocit zklamání, nejistoty a krize hodnot. Autoři často zobrazují tzv. „ztracenou generaci“, tedy mladé lidi poznamenané válkou. Literatura reaguje na společenské problémy, jako je chudoba, nezaměstnanost nebo nástup diktatur. Vedle realistického zobrazení vznikají i experimentální směry a důraz na psychiku člověka.
+## Rusko
+- v Rusku pouze socialistický realismus
+- silná cenzura
+## Ztracená generace
+- 1. polovina 20. stol.
+- reakce na válku
+- často mladí spisovatelé co šli do války -> přišli o ranou dospělost -> problém zařadit se zpět do společnosti
+- [[Erich Maria Remarque]]
+- [[Ernest Hemingway]]
+- [[Francis Scott Fitzgerald]]
 ## Znaky v literatuře
 - protiválečná tematika
 - ztráta iluzí a krize hodnot
 - důraz na psychiku člověka
 - kritika společnosti a režimů
 - různorodost stylů a směrů
+- básně - dadaismus, kubismus, kubofuturismus (rozvoj moderních směrů z malířství)
 ## Typické žánry
 - román
 - novela

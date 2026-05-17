@@ -8,12 +8,17 @@
 - revoluční změny v Evropě (např. rok 1848)
 ## Charakteristika
 Realismus se snaží co nejvěrněji zobrazit skutečný život bez idealizace. Autoři se zaměřují na běžné lidi, každodenní situace a reálné problémy společnosti. Důležitá je objektivita a snaha zachytit svět takový, jaký opravdu je. Literatura často kritizuje společenské nedostatky, jako je chudoba, pokrytectví nebo nespravedlnost. Postavy jsou psychologicky propracované a jednají realisticky.
+Dělí se na:
+- *kritický realismus* - negativní prvky společnosti
+- *naturalismus* - do krajnosti vedený realismus
+	- Představitel **Emil Zola** (*Zabiják*)
 ## Znaky v literatuře
 - věrné zobrazení reality
 - objektivní přístup autora
 - důraz na detail a popis
 - psychologická charakteristika postav
 - kritika společnosti
+- navazuje na romantismus, vychází ze skutečnosti
 ## Typické žánry
 - román
 - povídka

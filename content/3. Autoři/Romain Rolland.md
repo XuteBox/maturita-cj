@@ -2,11 +2,14 @@
 ## Informace
 - 1866–1944
 - francouzský spisovatel, historik a dramatik
+- reakce na 1. světovou válku, nezúčastnil se jí
+- kontext ***Ztracené generace***
 - pracoval jako profesor dějin hudby
 - představitel humanismu a pacifismu
 - vystupoval proti válce a násilí
 - ve své tvorbě zdůrazňoval morální hodnoty a lidskost
 - psal romány, eseje i dramata
+- realistický proud
 - nositel Nobelovy ceny za literaturu
 - díla:
 	- [[11. Petr a Lucie]]
@@ -17,6 +20,8 @@
 - [[Erich Maria Remarque]] (*Na západní frontě klid*) – protiválečná tematika
 - [[Ernest Hemingway]] (*Stařec a moře*) – zkušenost s válkou a člověk v mezní situaci
 - [[Antoine de Saint‑Exupéry]] (*Malý princ*) – humanismus a důraz na člověka
+- Marsel Pruise - experimentální proud, existencionalismus -> [[Franz Kafka]], James Joyce
+- Barbusse
 ## Zajímavosti
 - aktivně vystupoval proti 1. světové válce
 - byl významným zastáncem míru

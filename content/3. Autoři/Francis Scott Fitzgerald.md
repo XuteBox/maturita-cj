@@ -17,6 +17,7 @@
 - [[Ernest Hemingway]] (*Stařec a moře*)
 - [[Erich Maria Remarque]] (*Na západní frontě klid*)
 - [[Antoine de Saint‑Exupéry]] (*Malý princ*)
+- Steinback
 ## Zajímavosti
 - jeho díla zachycují tzv. „zlatá dvacátá léta“ v USA
 - za života nebyl tak uznávaný jako dnes

@@ -26,7 +26,20 @@ Období moderních směrů je reakcí na realismus – autoři už nechtějí je
 - *Proměna*
 - *Krysař*
 ## Zajímavosti
-- vznikají různé směry (symbolismus, dekadence, expresionismus)
+- vznikají různé směry (symbolismus, dekadence, impresionismus, expresionismus)
 - literatura se stává složitější a méně jednoznačná
 - důležitý vliv má psychologie
 - autoři často zobrazují nejistotu moderního člověka
+# Básnické skupiny
+## Prokletí básníci
+- básníci bouřící se proti společnosti a konvencím
+- dekadence, symbolismus, inspirace drogami, alkoholem, tabu témata
+- Paul Verlaine, Arthur Rimbaud
+## Anarchističtí buřiči
+- nerespektovali autoritu státu
+- někteří byli v organizaci ***Omladina***
+- [[Viktor Dyk]], **Petr Bezruč**, **Stanislav Kostka Neumann**, **František Gellner**
+## Česká moderna
+- důraz na individualitu, propagovali všeobecné volební právo
+- podpora dělnického hnutí a emancipace žen
+- **Josef Svatopluk Machar**, **Otokar Březina**, **Antonín Sova**

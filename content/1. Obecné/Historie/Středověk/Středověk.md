@@ -2,9 +2,7 @@
 ## Časové zařazení
 - přibližně 5.–15. století
 ## Historický kontext
-- pád Západořímské říše (476)
 - silný vliv církve na společnost
-- feudální uspořádání (král – šlechta – poddaní)
 - křížové výpravy
 - nízká vzdělanost, vzdělání hlavně v klášterech
 ## Charakteristika
